@@ -11,7 +11,10 @@ class Node{
     public class actions {
         Node head;
         Node prev;
-        public void name(int number) {
+        
+        
+        
+        public void insert(int number) {
         Node newnode= new Node();
         newnode.data=number;
             if (head==null) {
