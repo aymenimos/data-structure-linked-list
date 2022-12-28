@@ -7,6 +7,8 @@ public class Main {
         a.name(23);
         a.name(2);
         a.name(45);
+
+        a.name(45);
         a.name(4);
         a.name(1);
         a.show();
